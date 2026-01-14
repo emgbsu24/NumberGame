@@ -4,21 +4,34 @@
 
 main()
 
-greeting to the user
+make a char array name [20]
 
-ask user for their name
-
-store name in a string variable
-
-welcome message with userName
+make int correct, will be randomally generated 1-100
 
 make an int called guess
 
-make an int called correct, will be randomally generated 1-100
-
 make an int called turns set to 0
 
-make an int called keepGoing set to true
+make an int called keepGoing set to 1
+
+
+
+
+seed random number generater
+
+generate random number 1-100 put in correct
+
+
+
+
+greeting to the user and ask user for their name
+
+store name in a string variable
+
+welcome message with name
+
+
+
 
 while keep going true:
 
@@ -41,6 +54,9 @@ while keep going true:
       tell them "You got it!"
 
       set keepGoing to false
+
+
+
 
 after the loop ends, evaluate performance
 
